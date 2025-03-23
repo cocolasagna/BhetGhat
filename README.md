@@ -1,2 +1,1 @@
-BhetGhat is a social media webapp developed using MERN Stack.
-It has most of the feature of a simple social media app including real time chat application using socket.io
+BhetGhat is a dynamic social media platform designed to bring people together through seamless communication and content sharing. Whether you want to chat with friends, post updates, or share moments, BhetGhat offers an intuitive and engaging experience.
